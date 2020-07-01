@@ -124,22 +124,22 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_Yes</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Yes</Data></Cell>
-    <Cell ss:StyleID="s69"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Oui</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_No</Data></Cell>
     <Cell><Data ss:Type="String">No</Data></Cell>
-    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Non</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_diag_yes</Data></Cell>
     <Cell><Data ss:Type="String">Yes</Data></Cell>
-    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">Oui</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_diag_no</Data></Cell>
     <Cell><Data ss:Type="String">No</Data></Cell>
-    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Non</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_diag_ok</Data></Cell>
@@ -154,47 +154,47 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_ApplyChanges</Data></Cell>
     <Cell><Data ss:Type="String">Apply changes?</Data></Cell>
-    <Cell><Data ss:Type="String">Apply changes?</Data></Cell>
+    <Cell><Data ss:Type="String">Appliquer les changements ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_RevertChanges</Data></Cell>
     <Cell><Data ss:Type="String">Revert changes?</Data></Cell>
-    <Cell><Data ss:Type="String">Revert changes?</Data></Cell>
+    <Cell><Data ss:Type="String">Annuler les changements ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_ExitGame</Data></Cell>
     <Cell><Data ss:Type="String">Do you want to exit the game?</Data></Cell>
-    <Cell><Data ss:Type="String">Do you want to exit the game?</Data></Cell>
+    <Cell><Data ss:Type="String">Voulez-vous quitter le jeu ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_ExitToMainQ</Data></Cell>
     <Cell><Data ss:Type="String">Do you want to exit to main menu?</Data></Cell>
-    <Cell><Data ss:Type="String">Do you want to exit to main menu?</Data></Cell>
+    <Cell><Data ss:Type="String">Voulez-vous retourner au menu principal ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_PerformSuicideQ</Data></Cell>
     <Cell><Data ss:Type="String">Commit suicide? All progress will be lost.</Data></Cell>
-    <Cell><Data ss:Type="String">Commit suicide? All progress will be lost.</Data></Cell>
+    <Cell><Data ss:Type="String">Se suicider ? Tout progrès sera perdu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_loadingWorld</Data></Cell>
     <Cell><Data ss:Type="String">Loading world...</Data></Cell>
-    <Cell><Data ss:Type="String">Loading world...</Data></Cell>
+    <Cell><Data ss:Type="String">Chargement du monde...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_synchronizingWorld</Data></Cell>
     <Cell><Data ss:Type="String">Synchronizing world state...</Data></Cell>
-    <Cell><Data ss:Type="String">Synchronizing world state...</Data></Cell>
+    <Cell><Data ss:Type="String">Synchronisation de l'état du monde...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_ShowJoinSession</Data></Cell>
     <Cell><Data ss:Type="String">Joining server...</Data></Cell>
-    <Cell><Data ss:Type="String">Joining server...</Data></Cell>
+    <Cell><Data ss:Type="String">Connexion au serveur...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_connecting</Data></Cell>
     <Cell><Data ss:Type="String">Connecting...</Data></Cell>
-    <Cell><Data ss:Type="String">Connecting...</Data></Cell>
+    <Cell><Data ss:Type="String">Connexion...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_LobbyError</Data></Cell>
@@ -209,7 +209,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">cancel</Data></Cell>
     <Cell><Data ss:Type="String">Cancel</Data></Cell>
-    <Cell><Data ss:Type="String">Cancel</Data></Cell>
+    <Cell><Data ss:Type="String">Annuler</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">store_skin_title</Data></Cell>
@@ -224,22 +224,22 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_ModdedServer</Data></Cell>
     <Cell><Data ss:Type="String">Modded Server</Data></Cell>
-    <Cell><Data ss:Type="String">Modded Server</Data></Cell>
+    <Cell><Data ss:Type="String">Serveur Modé</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_Islands</Data></Cell>
     <Cell><Data ss:Type="String">Islands</Data></Cell>
-    <Cell><Data ss:Type="String">Islands</Data></Cell>
+    <Cell><Data ss:Type="String">Iles</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_BattleRoyale</Data></Cell>
     <Cell><Data ss:Type="String">Battle Royale</Data></Cell>
-    <Cell><Data ss:Type="String">Battle Royale</Data></Cell>
+    <Cell><Data ss:Type="String">Bataille Royale</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_ModdedMessage</Data></Cell>
     <Cell><Data ss:Type="String">This server requires the installation of mods to join. When leaving the server the game will need to be restarted.\nContinue and join the server?</Data></Cell>
-    <Cell><Data ss:Type="String">This server requires the installation of mods to join. When leaving the server the game will need to be restarted.\nContinue and join the server?</Data></Cell>
+    <Cell><Data ss:Type="String">Ce serveur nécessite l'installation de mods pour y participer. En quittant le serveur, le jeu devra être redémarré.\nContinuer et rejoindre le serveur ?</Data></Cell>
    </Row>
    <Row ss:Index="28" ss:AutoFitHeight="0">
     <Cell ss:Index="2" ss:StyleID="s70"><Data ss:Type="String">CRYSIS 3 CRYLOBBY ERROR TRANSLATIONS</Data></Cell>
@@ -259,22 +259,22 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_2</Data></Cell>
     <Cell><Data ss:Type="String">Service not supported</Data></Cell>
-    <Cell><Data ss:Type="String">Service not supported</Data></Cell>
+    <Cell><Data ss:Type="String">Service non supporté</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_3</Data></Cell>
     <Cell><Data ss:Type="String">Already initialized</Data></Cell>
-    <Cell><Data ss:Type="String">Already initialized</Data></Cell>
+    <Cell><Data ss:Type="String">Déjà initialisé</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_4</Data></Cell>
     <Cell><Data ss:Type="String">Not initialized</Data></Cell>
-    <Cell><Data ss:Type="String">Not initialized</Data></Cell>
+    <Cell><Data ss:Type="String">Non initialisé</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_5</Data></Cell>
     <Cell><Data ss:Type="String">Too many tasks</Data></Cell>
-    <Cell><Data ss:Type="String">Too many tasks</Data></Cell>
+    <Cell><Data ss:Type="String">Trop de tâches</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_6</Data></Cell>
@@ -289,7 +289,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_8</Data></Cell>
     <Cell><Data ss:Type="String">User data not registered</Data></Cell>
-    <Cell><Data ss:Type="String">User data not registered</Data></Cell>
+    <Cell><Data ss:Type="String">Données de l'utilisateur non enregistrées</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_9</Data></Cell>
@@ -299,47 +299,47 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_10</Data></Cell>
     <Cell><Data ss:Type="String">Too many sessions</Data></Cell>
-    <Cell><Data ss:Type="String">Too many sessions</Data></Cell>
+    <Cell><Data ss:Type="String">Trop de sessions</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_11</Data></Cell>
     <Cell><Data ss:Type="String">Session has ended</Data></Cell>
-    <Cell><Data ss:Type="String">Session has ended</Data></Cell>
+    <Cell><Data ss:Type="String">Fin de la session</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_12</Data></Cell>
     <Cell><Data ss:Type="String">Invalid request</Data></Cell>
-    <Cell><Data ss:Type="String">Invalid request</Data></Cell>
+    <Cell><Data ss:Type="String">Requête invalide</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_13</Data></Cell>
     <Cell><Data ss:Type="String">SPA file out-of-date</Data></Cell>
-    <Cell><Data ss:Type="String">SPA file out-of-date</Data></Cell>
+    <Cell><Data ss:Type="String">Fichier SPA obsolète</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_14</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">Server connection lost or can't be made</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Server connection lost or can't be made</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Connexion au serveur perdue ou impossible</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_15</Data></Cell>
     <Cell><Data ss:Type="String">The server is full</Data></Cell>
-    <Cell><Data ss:Type="String">The server is full</Data></Cell>
+    <Cell><Data ss:Type="String">Le serveur est complet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_16</Data></Cell>
     <Cell><Data ss:Type="String">Session is in the wrong state</Data></Cell>
-    <Cell><Data ss:Type="String">Session is in the wrong state</Data></Cell>
+    <Cell><Data ss:Type="String">La session est en mauvais état</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_17</Data></Cell>
     <Cell><Data ss:Type="String">User not signed in</Data></Cell>
-    <Cell><Data ss:Type="String">User not signed in</Data></Cell>
+    <Cell><Data ss:Type="String">Utilisateur non connecté</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_18</Data></Cell>
     <Cell><Data ss:Type="String">Invalid parameter</Data></Cell>
-    <Cell><Data ss:Type="String">Invalid parameter</Data></Cell>
+    <Cell><Data ss:Type="String">Paramètres invalides</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_19</Data></Cell>
@@ -349,22 +349,22 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_20</Data></Cell>
     <Cell><Data ss:Type="String">Insufficient privileges</Data></Cell>
-    <Cell><Data ss:Type="String">Insufficient privileges</Data></Cell>
+    <Cell><Data ss:Type="String">Privilèges insuffisants</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_21</Data></Cell>
     <Cell><Data ss:Type="String">Already in session</Data></Cell>
-    <Cell><Data ss:Type="String">Already in session</Data></Cell>
+    <Cell><Data ss:Type="String">Déjà en session</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_22</Data></Cell>
     <Cell><Data ss:Type="String">Leaderboard not registered</Data></Cell>
-    <Cell><Data ss:Type="String">Leaderboard not registered</Data></Cell>
+    <Cell><Data ss:Type="String">Classement non enregistré</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_23</Data></Cell>
     <Cell><Data ss:Type="String">This game session no longer exists</Data></Cell>
-    <Cell><Data ss:Type="String">This game session no longer exists</Data></Cell>
+    <Cell><Data ss:Type="String">Cette session de jeu n'existe plus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_24</Data></Cell>
@@ -374,12 +374,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_25</Data></Cell>
     <Cell><Data ss:Type="String">No user data registered</Data></Cell>
-    <Cell><Data ss:Type="String">No user data registered</Data></Cell>
+    <Cell><Data ss:Type="String">Aucune donnée d'utilisateur enregistrée</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_26</Data></Cell>
     <Cell><Data ss:Type="String">Read data not written</Data></Cell>
-    <Cell><Data ss:Type="String">Read data not written</Data></Cell>
+    <Cell><Data ss:Type="String">Lecture de données non écrites</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_27</Data></Cell>
@@ -389,12 +389,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_28</Data></Cell>
     <Cell><Data ss:Type="String">Invalid user</Data></Cell>
-    <Cell><Data ss:Type="String">Invalid user</Data></Cell>
+    <Cell><Data ss:Type="String">Utilisateur invalide</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_29</Data></Cell>
     <Cell><Data ss:Type="String">PlayStation®Network context error</Data></Cell>
-    <Cell><Data ss:Type="String">PlayStation®Network context error</Data></Cell>
+    <Cell><Data ss:Type="String">Erreur de contexte sur le réseau PlayStation®Network</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_30</Data></Cell>
@@ -414,27 +414,27 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_33</Data></Cell>
     <Cell><Data ss:Type="String">World not defined</Data></Cell>
-    <Cell><Data ss:Type="String">World not defined</Data></Cell>
+    <Cell><Data ss:Type="String">Monde non défini</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_34</Data></Cell>
     <Cell><Data ss:Type="String">System is busy</Data></Cell>
-    <Cell><Data ss:Type="String">System is busy</Data></Cell>
+    <Cell><Data ss:Type="String">Système occupé</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_35</Data></Cell>
     <Cell><Data ss:Type="String">Too many parameters</Data></Cell>
-    <Cell><Data ss:Type="String">Too many parameters</Data></Cell>
+    <Cell><Data ss:Type="String">Trop de paramètres</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_36</Data></Cell>
     <Cell><Data ss:Type="String">Not enough parameters</Data></Cell>
-    <Cell><Data ss:Type="String">Not enough parameters</Data></Cell>
+    <Cell><Data ss:Type="String">Pas assez de paramètres</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_37</Data></Cell>
     <Cell><Data ss:Type="String">Duplicate parameters</Data></Cell>
-    <Cell><Data ss:Type="String">Duplicate parameters</Data></Cell>
+    <Cell><Data ss:Type="String">Dupliquer paramètres</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_lobby_error_38</Data></Cell>
@@ -699,7 +699,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_menu_disconnect_error_22</Data></Cell>
     <Cell><Data ss:Type="String">Unknown</Data></Cell>
-    <Cell><Data ss:Type="String">Unknown</Data></Cell>
+    <Cell><Data ss:Type="String">Inconnu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">whitelistOnlyDesc</Data></Cell>
